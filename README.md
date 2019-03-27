@@ -4,19 +4,19 @@
 
 ## Links
 
+| Environment     | Link                     |
+|-----------------|--------------------------|
 | Production      | {{ link to production }} |
 | {{ Other Env }} | {{ link to other env }}  |
 
 ### External Links
 
-- Git Repos: 
-  - {{ link to related git repo }}
-  - {{ link to related git repo }}
-- Pivotal Tracker: https://www.pivotaltracker.com/n/projects/{{my project id}}
-- CI: {{ link to CI pipeline }}
-- Miro: 
-  - {{ link to Miro board }}
-  - {{ link to Miro board }}
+| Name            | Link                      |
+|-----------------|---------------------------|
+| Git Repo(s)     | {{ link to related git repo(s) }} |
+| Pivotal Tracker | https://www.pivotaltracker.com/n/projects/{{my-project-id}} |
+| CI              | {{ link to CI pipeline }} |
+| Miro            | {{ link to Miro board }}  |
 
 ## Contribution
 
