@@ -24,7 +24,7 @@
 
 {{ explain project structure; highlight any patterns or major design decisions new contributors should know about }}
 
-| Path  | Description .                      |
+| Path  | Description                        |
 |-------|------------------------------------|
 | `/ci` | CI configuration files and scripts |
 | `/{{ other }}` | {{ other part of project structure }} |
