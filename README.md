@@ -18,7 +18,7 @@
 | CI              | {{ link to CI pipeline }} |
 | Miro            | {{ link to Miro board }}  |
 
-## Contribution
+## Development
 
 ### Project Structure
 
