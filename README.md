@@ -1,6 +1,13 @@
-# {{App Name}}
+# {{ App Name }}
 
 {{ paragraph explaining what this repo is all about }}
+
+## Table of Contents
+
+1. [Links](#links)
+1. [Development](#development)
+1. [Deployment](#deployment)
+1. [Common Maintenance Tasks](#common-maintenance-tasks)
 
 ## Links
 
